@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-24T16:15:24.409Z",
+  "generated_at": "2026-01-24T17:11:49.559Z",
   "count": 4,
   "items": [
+    {
+      "type": "image",
+      "file": "맥도날드 쿠팡 GS 리워드.jpg",
+      "path": "cardimg/맥도날드 쿠팡 GS 리워드.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-25T02:11:40+09:00",
+      "date": "2026-01-25",
+      "category": "실사용",
+      "region": "기타",
+      "title": "맥도날드 쿠팡 GS 리워드"
+    },
     {
       "type": "image",
       "file": "쿠팡 GS.jpg",
@@ -13,17 +24,6 @@
       "category": "실사용",
       "region": "기타",
       "title": "쿠팡 GS"
-    },
-    {
-      "type": "image",
-      "file": "맥도날드 쿠팡 GS.jpg",
-      "path": "cardimg/맥도날드 쿠팡 GS.jpg",
-      "ext": "jpg",
-      "ts": "2026-01-25T01:14:51+09:00",
-      "date": "2026-01-25",
-      "category": "실사용",
-      "region": "기타",
-      "title": "맥도날드 쿠팡 GS"
     },
     {
       "type": "image",
