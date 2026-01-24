@@ -1,1 +1,41 @@
+name: Build proof.json
 
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "cardimg/**"
+      - "scripts/build-proof-json.mjs"
+      - ".github/workflows/build-proof-json.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build proof.json
+        run: node scripts/build-proof-json.mjs
+
+      - name: Commit & push (if changed)
+        run: |
+          if git status --porcelain | grep -q "proof.json"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add proof.json
+            git commit -m "chore: update proof.json"
+            git push
+          else
+            echo "No changes to commit."
+          fi
