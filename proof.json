@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-24T15:44:15.070Z",
-  "count": 3,
+  "generated_at": "2026-01-24T15:48:34.679Z",
+  "count": 4,
   "items": [
+    {
+      "type": "image",
+      "file": "photo_2026-01-24_22-44-59.jpg",
+      "path": "cardimg/photo_2026-01-24_22-44-59.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-25T00:48:26+09:00",
+      "date": "2026-01-25",
+      "category": "실사용",
+      "region": "기타",
+      "title": "photo 2026 01 24 22 44 59"
+    },
     {
       "type": "image",
       "file": "2026-01-17 15 41 44.jpg",
