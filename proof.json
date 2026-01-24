@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-24T16:14:12.618Z",
+  "generated_at": "2026-01-24T16:14:36.710Z",
   "count": 4,
   "items": [
+    {
+      "type": "image",
+      "file": "GS 아고다 쿠팡 리워드.jpg",
+      "path": "cardimg/GS 아고다 쿠팡 리워드.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-25T01:14:28+09:00",
+      "date": "2026-01-25",
+      "category": "실사용",
+      "region": "기타",
+      "title": "GS 아고다 쿠팡 리워드"
+    },
     {
       "type": "image",
       "file": "강남 파리바게트.jpg",
@@ -13,17 +24,6 @@
       "category": "실사용",
       "region": "서울/강남",
       "title": "강남 파리바게트"
-    },
-    {
-      "type": "image",
-      "file": "Gs 아고다 쿠팡 리워드.jpg",
-      "path": "cardimg/Gs 아고다 쿠팡 리워드.jpg",
-      "ext": "jpg",
-      "ts": "2026-01-25T01:09:05+09:00",
-      "date": "2026-01-25",
-      "category": "실사용",
-      "region": "기타",
-      "title": "Gs 아고다 쿠팡 리워드"
     },
     {
       "type": "image",
