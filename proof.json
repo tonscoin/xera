@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:43:32.423Z",
+  "generated_at": "2026-01-30T08:45:05.332Z",
   "count": 6,
   "items": [
+    {
+      "type": "image",
+      "file": "GS 아고다 쿠팡 캐쉬백.jpg",
+      "path": "cardimg/GS 아고다 쿠팡 캐쉬백.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:44:55+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "기타",
+      "title": "GS 아고다 쿠팡 캐쉬백"
+    },
     {
       "type": "image",
       "file": "강남 파리바게트 사용.jpg",
@@ -57,17 +68,6 @@
       "category": "실사용",
       "region": "기타",
       "title": "맥도날드 쿠팡 GS 리워드"
-    },
-    {
-      "type": "image",
-      "file": "GS 아고다 쿠팡 리워드.jpg",
-      "path": "cardimg/GS 아고다 쿠팡 리워드.jpg",
-      "ext": "jpg",
-      "ts": "2026-01-25T01:14:28+09:00",
-      "date": "2026-01-25",
-      "category": "실사용",
-      "region": "기타",
-      "title": "GS 아고다 쿠팡 리워드"
     }
   ]
 }
