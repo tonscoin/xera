@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-28T10:55:16.712Z",
-  "count": 5,
+  "generated_at": "2026-01-30T08:24:45.980Z",
+  "count": 6,
   "items": [
+    {
+      "type": "image",
+      "file": "페밀리마트 쉘주유소 캐쉬백.jpg",
+      "path": "cardimg/페밀리마트 쉘주유소 캐쉬백.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:24:36+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "기타",
+      "title": "페밀리마트 쉘주유소 캐쉬백"
+    },
     {
       "type": "image",
       "file": "롯데마트 GS25 캐시백.jpeg",
