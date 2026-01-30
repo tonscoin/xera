@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:50:07.737Z",
-  "count": 3,
+  "generated_at": "2026-01-30T08:50:21.054Z",
+  "count": 4,
   "items": [
+    {
+      "type": "image",
+      "file": "페밀리마트 쉘주유소 캐시백.jpg",
+      "path": "cardimg/페밀리마트 쉘주유소 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:50:12+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "기타",
+      "title": "페밀리마트 쉘주유소 캐시백"
+    },
     {
       "type": "image",
       "file": "쿠팡 GS 캐시백.jpg",
