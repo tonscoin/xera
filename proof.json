@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:48:44.116Z",
-  "count": 1,
+  "generated_at": "2026-01-30T08:49:46.533Z",
+  "count": 2,
   "items": [
+    {
+      "type": "image",
+      "file": "아고다여행 GS25 쿠팡 캐시백.jpg",
+      "path": "cardimg/아고다여행 GS25 쿠팡 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:49:35+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "기타",
+      "title": "아고다여행 GS25 쿠팡 캐시백"
+    },
     {
       "type": "image",
       "file": "맥도날드 쿠팡 GS 캐시백.jpg",
