@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:50:38.315Z",
-  "count": 5,
+  "generated_at": "2026-01-30T08:50:53.941Z",
+  "count": 6,
   "items": [
+    {
+      "type": "image",
+      "file": "강남 파리바게트 사용.jpg",
+      "path": "cardimg/강남 파리바게트 사용.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:50:45+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "서울/강남",
+      "title": "강남 파리바게트 사용"
+    },
     {
       "type": "image",
       "file": "롯데마트 GS25 캐시백.jpeg",
