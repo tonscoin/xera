@@ -1,6 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:48:08.569Z",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-01-30T08:48:44.116Z",
+  "count": 1,
+  "items": [
+    {
+      "type": "image",
+      "file": "맥도날드 쿠팡 GS 캐시백.jpg",
+      "path": "cardimg/맥도날드 쿠팡 GS 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-01-30T17:48:32+09:00",
+      "date": "2026-01-30",
+      "category": "실사용",
+      "region": "기타",
+      "title": "맥도날드 쿠팡 GS 캐시백"
+    }
+  ]
 }
