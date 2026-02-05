@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-01-30T08:50:53.941Z",
-  "count": 6,
+  "generated_at": "2026-02-05T17:04:33.315Z",
+  "count": 7,
   "items": [
+    {
+      "type": "image",
+      "file": "XERA 비자 실물카드 발급.jpg",
+      "path": "cardimg/XERA 비자 실물카드 발급.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-06T02:04:21+09:00",
+      "date": "2026-02-06",
+      "category": "실사용",
+      "region": "기타",
+      "title": "XERA 비자 실물카드 발급"
+    },
     {
       "type": "image",
       "file": "강남 파리바게트 사용.jpg",
