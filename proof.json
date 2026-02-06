@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-02-06T14:54:09.989Z",
-  "count": 10,
+  "generated_at": "2026-02-06T14:56:09.430Z",
+  "count": 11,
   "items": [
+    {
+      "type": "image",
+      "file": "GS25 편의점 사용 캐시백 1.2%.jpg",
+      "path": "cardimg/GS25 편의점 사용 캐시백 1.2%.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-06T23:55:59+09:00",
+      "date": "2026-02-06",
+      "category": "실사용",
+      "region": "기타",
+      "title": "GS25 편의점 사용 캐시백 1.2%"
+    },
     {
       "type": "image",
       "file": "GS25 편의점 바나나우유 4개 구입.jpg",
