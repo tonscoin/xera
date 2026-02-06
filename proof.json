@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-02-05T17:04:33.315Z",
-  "count": 7,
+  "generated_at": "2026-02-06T13:15:39.715Z",
+  "count": 8,
   "items": [
+    {
+      "type": "image",
+      "file": "GS25 편의점 카스 구입.jpg",
+      "path": "cardimg/GS25 편의점 카스 구입.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-06T22:15:29+09:00",
+      "date": "2026-02-06",
+      "category": "실사용",
+      "region": "기타",
+      "title": "GS25 편의점 카스 구입"
+    },
     {
       "type": "image",
       "file": "XERA 비자 실물카드 발급.jpg",
