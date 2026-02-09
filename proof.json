@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-02-09T03:21:40.435Z",
-  "count": 12,
+  "generated_at": "2026-02-09T03:22:16.594Z",
+  "count": 13,
   "items": [
+    {
+      "type": "image",
+      "file": "GS25 편의점 군고구마 구입 캐시백.jpg",
+      "path": "cardimg/GS25 편의점 군고구마 구입 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-09T12:22:03+09:00",
+      "date": "2026-02-09",
+      "category": "실사용",
+      "region": "기타",
+      "title": "GS25 편의점 군고구마 구입 캐시백"
+    },
     {
       "type": "image",
       "file": "GS25 편의점 군고구마 구입.jpg",
