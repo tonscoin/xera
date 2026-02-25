@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-02-25T11:00:49.416Z",
-  "count": 15,
+  "generated_at": "2026-02-25T11:02:02.683Z",
+  "count": 16,
   "items": [
+    {
+      "type": "image",
+      "file": "알리 쿠팡 GS25 캐시백.jpg",
+      "path": "cardimg/알리 쿠팡 GS25 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-25T20:01:52+09:00",
+      "date": "2026-02-25",
+      "category": "실사용",
+      "region": "기타",
+      "title": "알리 쿠팡 GS25 캐시백"
+    },
     {
       "type": "image",
       "file": "쿠팡 온라인 구매 후 캐시백.jpg",
