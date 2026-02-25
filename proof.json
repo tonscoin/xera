@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-02-09T03:22:16.594Z",
-  "count": 13,
+  "generated_at": "2026-02-25T11:00:13.879Z",
+  "count": 14,
   "items": [
+    {
+      "type": "image",
+      "file": "타오바오 온라인 구매후 캐시백.jpg",
+      "path": "cardimg/타오바오 온라인 구매후 캐시백.jpg",
+      "ext": "jpg",
+      "ts": "2026-02-25T20:00:02+09:00",
+      "date": "2026-02-25",
+      "category": "실사용",
+      "region": "기타",
+      "title": "타오바오 온라인 구매후 캐시백"
+    },
     {
       "type": "image",
       "file": "GS25 편의점 군고구마 구입 캐시백.jpg",
